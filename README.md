@@ -7,4 +7,4 @@ div
 1. fgyh
 2. bhjgj
 3. hjigh
-[link](ya.ru)
+[link](http://ya.ru)
